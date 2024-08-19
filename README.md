@@ -13,7 +13,6 @@ Identify and describe at least three key milestones in the evolution of software
 - The introduction of formal methods and software verification in the 1980s and 1990s
 - The rise of cloud computing, mobile app development, and artificial intelligence (AI) in the 2000s and 2010s
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Planning: Define project scope, goals, timelines, budget, and resources. Identify stakeholders, their needs, and expectations.
 2. Requirements Gathering: Collect and document detailed requirements from stakeholders through interviews, surveys, and observations.
@@ -23,7 +22,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Testing: Verify and validate the software through various testing techniques, such as unit testing, integration testing, and user acceptance testing.
 7. Deployment: Release the software to production, configure, and set up the environment.
 8. Maintenance: Provide ongoing support, fix defects, and make updates to ensure the software continues to meet changing user needs.
-
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall and Agile are two popular software development methodologies that differ in their approach, philosophy, and application.
@@ -38,13 +36,12 @@ Agile Methodology:
 - Phases: Sprint Planning, Development, Review, Retrospective ( repeated in cycles)
 - Encourages change and adaptation throughout the project
 Comparison:
-|  | Waterfall | Agile |
-| --- | --- | --- |
-| Approach | Linear | Iterative |
-| Flexibility | Low | High |
-| Change Management | Difficult | Embraced |
-| Customer Involvement | Limited | Active |
-| Risk Management | Predictive | Adaptive |
+| Waterfall, Agile
+| Approach, Linear, Iterative
+| Flexibili, Low, High
+| Change Management, Difficult, Embraced
+| Customer Involvement, Limited, Active
+| Risk Management, Predictive, Adaptive
 Scenarios:
 Waterfall:
 1. Safety-critical systems: Medical devices, aerospace, or automotive systems where predictability and stability are crucial.
@@ -128,7 +125,6 @@ The importance of IDEs and VCS lies in their ability to:
 4. Manage complexity and scale
 5. Reduce errors and bugs
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Common challenges faced by software engineers include:
 1. Complexity and Technical Debt: Managing complex codebases and technical debt.
@@ -197,10 +193,7 @@ Acceptance Testing
     - Helps to identify and fix errors that occur when the software is used in a real-world scenario
     - Provides confidence that the software provides the expected value to the customer
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering refers to the process of designing and optimizing text prompts or inputs to effectively interact with AI models, such as language models, chatbots, or other machine learning systems. The goal of prompt engineering is to elicit specific, accurate, and relevant responses from the AI model.
 Importance of Prompt Engineering:
@@ -210,7 +203,6 @@ Importance of Prompt Engineering:
 4. Reduced Ambiguity: Clear and concise prompts minimize ambiguity, reducing the likelihood of misinterpretation by the AI model.
 5. Better Decision-Making: High-quality prompts provide reliable and relevant information, enabling informed decision-making.
 6. Adaptability: Prompt engineering allows for adaptability to different AI models, domains, and use cases.
-
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
